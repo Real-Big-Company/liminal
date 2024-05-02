@@ -1,0 +1,8 @@
+node_modules
+_site
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+site/css/*
+.vscode
+.yarn
