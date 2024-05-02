@@ -5,16 +5,16 @@ title: Haptic Feedback Gloves for Markdown Files Revolutionize Virtual Prototypi
 seo:
   page_description:
   canonical_url:
-  featured_image: /images/gloves.png
+  featured_image: /images/news/gloves.png
   author_twitter_handle:
   open_graph_type: article
   no_index: false
 author: TODO
 thumbImg:
-  image: /images/gloves.png
+  image: /images/news/gloves.png
   image_alt: Haptic Feedback Gloves for Markdown Files Revolutionize Virtual Prototyping
 featuredImg:
-  image: /images/gloves.png
+  image: /images/news/gloves.png
   image_alt: Haptic Feedback Gloves for Markdown Files Revolutionize Virtual Prototyping
 draft: false
 ---
