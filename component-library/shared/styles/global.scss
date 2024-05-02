@@ -15100,18 +15100,6 @@ a {
                }
                a {
                   transition: all 0.3s ease-in-out;
-                  i {
-                     font-size: 30px;
-                     color: white;
-                     transition: all 0.3s ease-in-out;
-                     transform: translateY(0px);
-                     background-color: #444;
-                  }
-                  &:hover {
-                     i {
-                        transform: translateY(-2px);
-                     }
-                  }
                }
             }
          }
