@@ -1,7 +1,7 @@
 ---
 _schema: default
 date: 2024-05-05T23:57:32Z
-title: Liminal Interfaces Department QX 2025 Earnings (Anticipated)
+title: QX 2025 Earnings (Anticipated)
 seo:
   page_description:
   canonical_url:
