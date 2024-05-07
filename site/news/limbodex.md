@@ -1,7 +1,8 @@
 ---
 _schema: default
 date: 2024-01-01T00:00:00Z
-title: "Limbodex: New Wearable Translates Emojis in Real-Time"
+title: 'Limbodex: New Wearable Translates Emojis in Real-Time'
+post_permalink: /news/{{title | slugify }}
 seo:
   page_description:
   canonical_url:
@@ -9,16 +10,18 @@ seo:
   author_twitter_handle:
   open_graph_type: article
   no_index: false
-author: TODO
+layout: layouts/news-single.liquid
+tags:
+  - blog
+author: David Small
 thumbImg:
   image: /images/news/apple.png
-  image_alt: "Limbodex: New Wearable Translates Emojis in Real-Time"
+  image_alt: 'Limbodex: New Wearable Translates Emojis in Real-Time'
 featuredImg:
   image: /images/news/apple.png
-  image_alt: "Limbodex: New Wearable Translates Emojis in Real-Time"
+  image_alt: 'Limbodex: New Wearable Translates Emojis in Real-Time'
 draft: false
 ---
-
 RealBig Company's Liminal Interfaces Department has unveiled Limbodex, a breakthrough wearable that instantly translates emoji symbols into speech and text.
 
 The innovative device consists of a sensor-laden glove, integrated battery pack, and compact processor unit. As the user encounters emoji in their day-to-day life, Limbodex's AI software recognizes the symbols and translates them into audible words or written captions displayed on the screen.

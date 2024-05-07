@@ -2,6 +2,7 @@
 _schema: default
 date: 2024-01-01T00:00:00Z
 title: Haptic Feedback Gloves for Markdown Files Revolutionize Virtual Prototyping
+post_permalink: /news/{{title | slugify }}
 seo:
   page_description:
   canonical_url:
@@ -9,7 +10,10 @@ seo:
   author_twitter_handle:
   open_graph_type: article
   no_index: false
-author: TODO
+layout: layouts/news-single.liquid
+tags:
+  - blog
+author: David Large
 thumbImg:
   image: /images/news/gloves.png
   image_alt: Haptic Feedback Gloves for Markdown Files Revolutionize Virtual Prototyping
@@ -18,7 +22,6 @@ featuredImg:
   image_alt: Haptic Feedback Gloves for Markdown Files Revolutionize Virtual Prototyping
 draft: false
 ---
-
 The Liminal Interfaces Department at RealBig Company has unveiled a groundbreaking new product that is set to transform how products are designed and tested in virtual reality environments. The cutting-edge haptic feedback gloves allow users to physically feel and interact with Markdown files with unprecedented realism.
 
 "These gloves are a game-changer for virtual prototyping and design," said Dr. Emily Rhodes, lead researcher on the project. "Until now, interacting with Markdown in VR has felt disconnected from the physical world. Our gloves provide precise force feedback at all points of contact, allowing you to truly feel the shape, texture, weight and resistance of flat files."

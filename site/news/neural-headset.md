@@ -1,7 +1,8 @@
 ---
 _schema: default
 date: 2024-01-01T00:00:00Z
-title: "RealBig's Neural Headset Revolutionizes Brain-Computer Interfaces"
+title: RealBig's Neural Headset Revolutionizes Brain-Computer Interfaces
+post_permalink: /news/{{title | slugify }}
 seo:
   page_description:
   canonical_url:
@@ -9,16 +10,18 @@ seo:
   author_twitter_handle:
   open_graph_type: article
   no_index: false
-author: TODO
+layout: layouts/news-single.liquid
+tags:
+  - blog
+author: David Medium
 thumbImg:
   image: /images/news/brain.png
-  image_alt: "RealBig's Neural Headset Revolutionizes Brain-Computer Interfaces"
+  image_alt: RealBig's Neural Headset Revolutionizes Brain-Computer Interfaces
 featuredImg:
   image: /images/news/brain.png
-  image_alt: "RealBig's Neural Headset Revolutionizes Brain-Computer Interfaces"
+  image_alt: RealBig's Neural Headset Revolutionizes Brain-Computer Interfaces
 draft: false
 ---
-
 In a major leap forward for human-machine interaction, researchers from RealBig Company's Liminal Interfaces Department have developed a revolutionary neural headset that allows middle managers to control their direct reports and navigate digital interfaces directly through thought.
 
 The wireless headset, dubbed "NewroManage," relies on an array of marginally invasive sensors that monitor and decode patterns of middle management brain activity in real-time. Using advanced signal processing and machine learning algorithms, NewroManage can interpret these neural signals as specific commands and inputs.
