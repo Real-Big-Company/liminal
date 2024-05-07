@@ -17,6 +17,7 @@ featuredImg:
   image: /images/news/brain.png
   image_alt: RealBig's Neural Headset Revolutionizes Brain-Computer Interfaces
 draft: false
+syndicate: false
 ---
 In a major leap forward for human-machine interaction, researchers from RealBig Company's Liminal Interfaces Department have developed a revolutionary neural headset that allows middle managers to control their direct reports and navigate digital interfaces directly through thought.
 

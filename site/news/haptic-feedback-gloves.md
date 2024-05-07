@@ -17,6 +17,7 @@ featuredImg:
   image: /images/news/gloves.png
   image_alt: Haptic Feedback Gloves for Markdown Files Revolutionize Virtual Prototyping
 draft: false
+syndicate: true
 ---
 The Liminal Interfaces Department at RealBig Company has unveiled a groundbreaking new product that is set to transform how products are designed and tested in virtual reality environments. The cutting-edge haptic feedback gloves allow users to physically feel and interact with Markdown files with unprecedented realism.
 

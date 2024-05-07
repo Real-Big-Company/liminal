@@ -17,6 +17,7 @@ featuredImg:
   image: /images/news/apple.png
   image_alt: 'Limbodex: New Wearable Translates Emojis in Real-Time'
 draft: false
+syndicate: false
 ---
 RealBig Company's Liminal Interfaces Department has unveiled Limbodex, a breakthrough wearable that instantly translates emoji symbols into speech and text.
 
