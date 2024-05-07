@@ -2,7 +2,6 @@
 _schema: default
 date: 2024-01-08T00:00:00Z
 title: RealBig's Neural Headset Revolutionizes Brain-Computer Interfaces
-post_permalink: /news/{{title | slugify }}
 seo:
   page_description:
   canonical_url:
@@ -10,9 +9,6 @@ seo:
   author_twitter_handle:
   open_graph_type: article
   no_index: false
-layout: layouts/news-single.liquid
-tags:
-  - blog
 author: David Medium
 thumbImg:
   image: /images/news/brain.png
