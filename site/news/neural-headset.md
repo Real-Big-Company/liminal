@@ -1,6 +1,6 @@
 ---
 _schema: default
-date: 2024-01-01T00:00:00Z
+date: 2024-01-08T00:00:00Z
 title: RealBig's Neural Headset Revolutionizes Brain-Computer Interfaces
 post_permalink: /news/{{title | slugify }}
 seo:

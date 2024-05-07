@@ -1,6 +1,6 @@
 ---
 _schema: default
-date: 2024-01-01T00:00:00Z
+date: 2024-01-03T00:00:00Z
 title: 'Limbodex: New Wearable Translates Emojis in Real-Time'
 post_permalink: /news/{{title | slugify }}
 seo:
